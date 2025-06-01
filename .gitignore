@@ -1,9 +1,1 @@
-# Ignore executables with no extension
-a.out
-main
-app
-
-# Or more general: ignore all files without extensions
-*[!.]*
-
-# But this ignores all extensionless files — be cautious!
+/build/
