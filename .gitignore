@@ -1,0 +1,20 @@
+# Object files
+*.o
+*.obj
+
+# Compiled binary executables
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# CMake build directory (if using CMake)
+build/
+
+# Backup files
+*~
+*.swp
+
+# Core dumps
+core
