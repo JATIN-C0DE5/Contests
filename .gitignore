@@ -1,20 +1,9 @@
-# Object files
-*.o
-*.obj
+# Ignore executables with no extension
+a.out
+main
+app
 
-# Compiled binary executables
-*.out
-*.exe
-*.a
-*.so
-*.dll
+# Or more general: ignore all files without extensions
+*[!.]*
 
-# CMake build directory (if using CMake)
-build/
-
-# Backup files
-*~
-*.swp
-
-# Core dumps
-core
+# But this ignores all extensionless files — be cautious!
