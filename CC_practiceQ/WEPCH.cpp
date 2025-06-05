@@ -24,5 +24,5 @@ int main() {
 	}
 }
 
-//CEIL FN CAN'T BE USED AS IT WILL GIVE ERRORS FOR LARGE VALUES
+//CEIL FN CAN'T BE USED AS IT WILL GIVE ERRORS FOR LARGER VALUES 
 // refer this : https://chatgpt.com/share/68404a1d-37dc-8007-a864-febb40d37faf
